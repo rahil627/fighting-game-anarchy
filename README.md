@@ -1,6 +1,7 @@
 # fighting-game-anarchy
-just a place to keep FGA stuff in, including the knowledge-base!
 
-add discord link here
+hang out here: https://discord.gg/Bg86ZJ
 
-at the moment, FGA uses this wiki as it's main knowledge-base! Click on wiki on the top right.
+this repo is just a place to keep FGA stuff in
+
+at the moment, FGA uses this site's wiki as it's current knowledge-base: https://github.com/Rahil627/fighting-game-anarchy/wiki
