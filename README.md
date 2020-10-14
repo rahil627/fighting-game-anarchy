@@ -1,8 +1,6 @@
 # fighting-game-anarchy
 
-hang out here: https://discord.gg/Bg86ZJ
+come 'n hang out: https://discord.gg/Bg86ZJ
+if not, you can read 'n contribute to the wiki: https://github.com/Rahil627/fighting-game-anarchy/wiki
 
-this repo is just a place to keep FGA stuff in
-
-FGA uses this site's wiki as it's main knowledge-base: https://github.com/Rahil627/fighting-game-anarchy/wiki
-  - remember to open access to edit the wiki (under settings for this repo)
+note to self: remember to open access to edit the wiki (under settings for this repo)
