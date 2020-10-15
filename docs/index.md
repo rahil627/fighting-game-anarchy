@@ -5,9 +5,10 @@ title: hearth
 
 did the layout thing inclue the toc above this line?
 
-i manually included the toc below this line
+{% include toc.html %}  
+i manually included the toc below above this line
 
-{% include toc.html %}
+
 
 Welcome home!
 
