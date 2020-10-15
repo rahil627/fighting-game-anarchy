@@ -1,0 +1,7 @@
+<h4>contents</h4>
+<ul>
+    {% for p in pages %}
+        <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+</ul>
