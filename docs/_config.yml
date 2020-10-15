@@ -1,2 +1,9 @@
 # i think the default theme is minima
 theme: jekyll-theme-midnight
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "toc"
