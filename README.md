@@ -4,7 +4,7 @@ come 'n hang out at [the discord!](https://discord.gg/Bg86ZJ)
 
 if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)
 
-if that's not enough, your read 'n contribute to [the site](https://rahil627.github.io/fighting-game-anarchy/)(!!), to which the wiki may be ported to soon. Just ask for permission (git access permissions).
+if that's not enough, you can halp me make [the site](https://rahil627.github.io/fighting-game-anarchy/)(!!), to which the wiki may be ported to soon. The site's source here (in docs); it's hosted and automatically built by GitHub Pages, generated using Jekyll. Just ask for permission (git access permissions). :)
 - - -
 
 
