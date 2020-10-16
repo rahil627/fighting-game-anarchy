@@ -8,7 +8,7 @@ if that's not enough, you can halp me make [the site](https://rahil627.github.io
 - - -
 
 
-notes:  
+##### notes
 remember to open access to edit the wiki (under settings for this repo):
 Settings, under the Features section, un-check 'Restrict editing to collaborators only'
 
