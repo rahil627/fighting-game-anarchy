@@ -1,4 +1,4 @@
-# fighting-game-anarchy
+# the way of fighting games
 
 come 'n hang out at [the discord!](https://discord.gg/Bg86ZJ)
 
@@ -9,6 +9,8 @@ if that's not enough, you can halp me make [the site](https://rahil627.github.io
 
 
 #### notes
+[todo: change name to the way...]
+
 remember to open access to edit the wiki (under settings for this repo):
 Settings, under the Features section, un-check 'Restrict editing to collaborators only'
 
