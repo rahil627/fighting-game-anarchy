@@ -5,6 +5,7 @@ if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rah
 if that's not enough, your read 'n contribute to [the site](https://rahil627.github.io/fighting-game-anarchy/)
 - - -
 
+
 notes:
 remember to open access to edit the wiki (under settings for this repo):
 Settings, under the Features section, un-check 'Restrict editing to collaborators only'
