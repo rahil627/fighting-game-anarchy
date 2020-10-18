@@ -1,4 +1,4 @@
-# desert willowolf: the way of fighting games
+#### desert willowolf: the way of fighting games
 
 come 'n hang out at [the discord!](https://discord.gg/Bg86ZJ)
 
