@@ -1,4 +1,5 @@
-#### desert willowolf: the way of fighting games
+#### fg willowolf: the way of fighting games
+is a digital anarchist diy community interested in the research and development of fighting games
 
 come 'n hang out at [the discord!](https://discord.gg/Bg86ZJ)
 
