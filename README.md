@@ -1,7 +1,7 @@
 #### fg willowolf: the way of fighting games
 is a digital anarchist diy community interested in the research and development of fighting games
 
-come 'n hang out at [the discord!](https://discord.gg/Bg86ZJ)
+come 'n hang out at [the discord!](https://discord.gg/FtAQws9)
 
 if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)
 
