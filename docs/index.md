@@ -3,7 +3,7 @@ layout: toc
 title: hearth
 ---
 
-did the layout thing inclue the toc above this line?
+did the layout thing include the toc above this line?
 
 {% include toc.html %}  
 i manually included the toc below above this line
@@ -12,6 +12,11 @@ i manually included the toc below above this line
 
 Welcome home!
 
+https://discord.gg/FtAQws9
+
+
+
+### todo
 ...how long does it take for GitHub to update the site? (to auto build the site and publish it)  
 answer: as long as it took me to write that question.
 
