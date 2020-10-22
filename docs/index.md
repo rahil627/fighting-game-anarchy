@@ -1,5 +1,5 @@
 ---
-layout: toc
+layout: default # toc
 title: hearth
 ---
 
