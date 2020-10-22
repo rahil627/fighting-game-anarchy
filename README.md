@@ -1,6 +1,8 @@
 ### rathewolf's fighting game anarchy / aka the way of fighting games
 is a digital anarchist diy community interested in the research and development of fighting games
 
+some traits: competitive, intuitive, *chill*, *siiiiick*, dope, *cognizant*.
+
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9)
 
 if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)
