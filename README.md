@@ -9,10 +9,6 @@ if that's not enough, you can halp me make [this site](https://rahil627.github.i
 - - -
 
 #### notes
-this part of the readme serves as a simple version of GitHub's projects 'n issues, so start with those features off.
-
-remember to open access to edit the wiki (under settings for this repo):
-Settings, under the Features section, un-check 'Restrict editing to collaborators only'
 
 should probably [move to github pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site-with-jekyll#creating-your-site), to make a simple fighting game database...
 
