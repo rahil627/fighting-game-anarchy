@@ -1,4 +1,4 @@
-currently, the site is generated using the contents from [my repo for willowolf](https://github.com/Rahil627/willowolf). In the future, i'll move the contents back here, and generate the site using this repo. 
+*currently, the site is generated using the contents from [my repo for willowolf](https://github.com/Rahil627/willowolf). In the future, i'll move the contents back here, and generate the site using this repo.*
 
 # temp web-site
 ### rathewolf's fighting game anarchy / aka the way of fighting games
