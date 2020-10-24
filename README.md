@@ -1,9 +1,3 @@
-*currently, the site is generated using the contents from [my repo for willowolf](https://github.com/Rahil627/willowolf). In the future, i'll move the contents back here, and generate the site using this repo.*
-
-cut:  
-some traits: competitive, intuitive, *chill*, *siiiiick*, dope, *cognizant*.
-
-# temp web-site
 # the way of fighting games: a fighting game anarchy: a willowolf
 is a digital anarchist diy community interested in the research and development of fighting games
 
@@ -17,3 +11,6 @@ if that's not enough, you can halp make [this site](https://github.com/Rahil627/
 todo:
 welp, the site works, but the theme doesn't...  
 fixed: changed layout-value to `default`... a little strange though, what about `page` and `post` values?
+
+cut:  
+some traits: competitive, intuitive, *chill*, *siiiiick*, dope, *cognizant*.
