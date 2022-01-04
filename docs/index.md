@@ -4,7 +4,7 @@ title: hearth
 ---
 
 # the way of fighting games: a fighting game anarchy a willowolf
-is a digital anarchist diy community interested in the research and development of the art of fighting games
+a digital communal space passionate about the research and development of fighting games
 
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9)  
 if that's empty, you can read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)  
