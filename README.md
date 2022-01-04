@@ -9,6 +9,8 @@ if that's not enough, you can halp make [this site](https://github.com/Rahil627/
 
 # notes
 todo:
+ Halp transform those lists into readable tables (csv vs flat-file database)
+
 welp, the site works, but the theme doesn't...  
 fixed: changed layout-value to `default`... a little strange though, what about `page` and `post` values?
 
