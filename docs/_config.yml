@@ -1,5 +1,5 @@
 # theme: jekyll-theme-midnight
-remote_theme: minima # force remote download to get the most recent version, which has skins
+remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
 minima:
   skin: dark
 
