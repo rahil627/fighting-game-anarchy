@@ -1,7 +1,12 @@
-site: fighting game anarchy
-# title: fighting game anarchy
-# description: huh
-
+title: fighting game anarchy
+author:
+  name: rathewolf
+  #email: your-email@domain.com
+#description: > # this means to ignore newlines until "show_excerpts:"
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+  
 # theme: jekyll-theme-midnight
 remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
 minima:
