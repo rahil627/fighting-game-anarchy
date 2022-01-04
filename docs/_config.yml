@@ -1,5 +1,5 @@
-# i think the default theme is minima
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+remote_theme: minima # force remote download to get the most recent version, which has skins
 
 defaults:
   -
