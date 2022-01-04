@@ -1,4 +1,5 @@
 ---
+permalink: /fighting/
 layout: default # page
 title: hearth
 ---
