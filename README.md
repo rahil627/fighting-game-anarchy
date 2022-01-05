@@ -1,5 +1,5 @@
 *(copied from the web-site's home-page)*
-# ![](docs/earthbound-mr-saturns.jpg?raw=true)
+
 # a fighting game anarchy: a willowolf
 is a digital anarchist diy community interested in the research and development of fighting games
 
