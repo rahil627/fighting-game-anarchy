@@ -2,14 +2,14 @@
 
 ![](docs/knee-animation-hitbox.gif?raw=true)
 
-# a fighting game anarchy: a willowolf
-is a digital anarchist diy community interested in the research and development of fighting games
+![](knee-animation-hitbox.gif?raw=true)
 
-come 'n hang out at [the discord!](https://discord.gg/FtAQws9)
+# fighting game anarchy: the art and way of fighting games
+a project and digital communal space passionate about fighting games, especially the research 'n development of them
 
-if that's empty, you can read 'n contribute to [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)
-
-if that's not enough, you can halp make [this site](https://github.com/Rahil627/fighting-game-anarchy)!! The site is just as easy to edit as the wiki is. Just ask for permission to edit it. Sooo much to do!! :) :) Halp find or make an awesome theme. Halp transform those lists into readable tables (csv vs flat-file database). Add your own cool art 'n animation! Do what you want.
+come 'n hang out at [the discord!](https://discord.gg/FtAQws9) or:  
+read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki). it's super simple!! or:  
+help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy). it's also quite simple! Just ask for permission to edit it. Sooo much to do!! :) :)  
 
 # notes
 todo:
