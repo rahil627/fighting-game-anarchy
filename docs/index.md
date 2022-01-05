@@ -5,7 +5,7 @@ title: hearth
 
 ![](knee-animation-hitbox.gif?raw=true)
 
-# the way of fighting games: a fighting game anarchy a willowolf
+# the art of fighting games: a fighting game anarchy a willowolf
 a project and digital communal space passionate about fighting games, especially the research 'n development of them
 
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9) or:  
