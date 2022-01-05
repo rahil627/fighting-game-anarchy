@@ -12,8 +12,3 @@ come 'n hang out at [the discord!](https://discord.gg/FtAQws9) or:
 read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki). it's super simple!! or:  
 help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy). it's also quite simple! Just ask for permission to edit it. Sooo much to do!! :) :)  
 
-# testing web-site area
-did the layout thing include the toc above this line?
-
-{% include toc.html %}  
-i manually included the toc below above this line
