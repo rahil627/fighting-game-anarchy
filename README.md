@@ -13,10 +13,12 @@ if that's not enough, you can halp make [this site](https://github.com/Rahil627/
 
 # notes
 todo:
- Halp transform those lists into readable tables (csv vs flat-file database)
+clean up the repo; i think this was my first GitHub Pages site, so i was testing stuff here, and left a bunch of testing junk..
 
 welp, the site works, but the theme doesn't...  
 fixed: changed layout-value to `default`... a little strange though, what about `page` and `post` values?
 
 cut:  
 some traits: competitive, intuitive, *chill*, *siiiiick*, dope, *cognizant*.
+
+Halp transform those lists into readable tables (csv vs flat-file database)
