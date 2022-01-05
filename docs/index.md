@@ -5,7 +5,7 @@ title: hearth
 
 ![](knee-animation-hitbox.gif?raw=true)
 
-# the art and way of fighting games
+# fighting willowolf: the art and way of fighting games
 a project and digital communal space passionate about fighting games, especially the research 'n development of them
 
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9) or:  
