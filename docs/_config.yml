@@ -1,14 +1,19 @@
 title: the way of fighting games
-author:
-  name: a willowolf by <a href="https://rathewolf.com>rathewolf</a>
-  #email: your-email@domain.com
 #description: fetch this from the github repo's about section
   
 # theme: jekyll-theme-midnight
 remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
+
+# theme specific stuff
 minima:
   skin: dark
+  
+  author:
+    name: a willowolf by <a href="https://rathewolf.com>rathewolf</a>
+    #email: your-email@domain.com
 
+
+# messisg with something
 defaults:
   -
     scope:
