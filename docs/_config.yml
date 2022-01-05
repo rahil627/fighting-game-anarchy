@@ -1,5 +1,5 @@
-title: the way of fighting games
-#description: fetch this from the github repo's about section
+title: the art of fighting games
+#description: # fetches this from github repo's about section
   
 # theme: jekyll-theme-midnight
 remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
