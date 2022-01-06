@@ -8,15 +8,15 @@ remote_theme: jekyll/minima # force remote download to get the most recent versi
 minima:
   skin: dark
   
-  author:
-    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
+#  author:
+#    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
     #email: your-email@domain.com
 
 
 # messisg with something
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default" # "toc"
+#defaults:
+#  -
+#    scope:
+#      path: "" # an empty string here means all files in the project
+#    values:
+#      layout: "default" # "toc"
