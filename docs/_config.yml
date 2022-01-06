@@ -1,12 +1,14 @@
-title: fighting game anarchy: the art and way of fighting games
+title: fighting game anarchy #: the art and way of fighting games
 #description: # fetches this from github repo's about section
   
 # theme: jekyll-theme-midnight
-remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
+#remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
+#remote_theme: primitive
+remote_theme: ronv/ultra
 
 # theme specific stuff
-minima:
-  skin: dark
+#minima:
+#  skin: dark
   
 #  author:
 #    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
