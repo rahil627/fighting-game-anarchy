@@ -12,6 +12,8 @@ read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/w
 help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy). it's also quite simple! Just ask for permission to edit it. Sooo much to do!! :) :)  
 
 # notes
+site style / theme: ink 'n paper, or pencil 'n paper, or video game prototyping, or wireframes and highlighted collisions
+
 todo:
 clean up the repo; i think this was my first GitHub Pages site, so i was testing how GitHub Pages works here, and left a bunch of testing junk..
 
