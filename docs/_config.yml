@@ -8,7 +8,7 @@ remote_theme: jekyll/minima # force remote download to get the most recent versi
 
 # theme specific stuff
 #  author:
-#    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
+#    name: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
     #email: your-email@domain.com
 
 
