@@ -7,9 +7,6 @@ remote_theme: jekyll/minima # force remote download to get the most recent versi
 #remote_theme: pages-themes/minimal
 
 # theme specific stuff
-#minima:
-#  skin: dark
-  
 #  author:
 #    name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
     #email: your-email@domain.com
