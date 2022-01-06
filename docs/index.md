@@ -1,5 +1,5 @@
 ---
-layout: default # page
+#layout: default # page
 title: hearth
 ---
 
