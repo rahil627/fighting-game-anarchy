@@ -3,8 +3,8 @@ title: 'conceptual fighting: the art and way of fighting games' #fighting game a
   
 # theme: jekyll-theme-midnight
 #remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
-#remote_theme: primitive
-remote_theme: rahil627/ultra
+remote_theme: primitive
+#remote_theme: rahil627/ultra
 
 # theme specific stuff
 #minima:
