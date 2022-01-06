@@ -1,9 +1,9 @@
 title: 'conceptual fighting: the art and way of fighting games' #fighting game anarchy: the art and way of fighting games
 #description: # fetches this from github repo's about section
   
-theme: jekyll-theme-primitive
-#remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
-#remote_theme: rahil627/ultra
+remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
+#remote_theme: rahil627/ultra # nice, but no dynamic nav bar :(
+#remote_theme: pages-themes/primer
 
 # theme specific stuff
 #minima:
