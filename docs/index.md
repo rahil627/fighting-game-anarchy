@@ -3,6 +3,8 @@
 #layout: page
 title: the dojo
 ---
+welcome to
+# {{ site.title }}
 a project and digital communal space passionate about fighting games,  
 especially the research 'n development of them
 
