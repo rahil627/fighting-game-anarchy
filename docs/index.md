@@ -4,7 +4,7 @@
 #title: the dojo # adds to nav bar and h1
 ---
 welcome to
-# {{ site.title }}
+# CONCEPTUAL FIGHTING
 a project and digital communal space passionate about fighting games,  
 especially the research 'n development of them
 
