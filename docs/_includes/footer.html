@@ -17,7 +17,7 @@
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name {% comment %} | escape {% endcomment %}}}</li>
+            <li class="p-name">{{ site.author.name}}</li>
           {% endif -%}
           {% if site.author.email -%}
             <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
