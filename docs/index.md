@@ -1,5 +1,5 @@
 ---
-layout: default # unlike page, doesnt auto-add the page.title as a h1
+layout: page #default # unlike page, doesnt auto-add the page.title as a h1
 title: dojo
 ---
 # *the art and way of fighting games*
