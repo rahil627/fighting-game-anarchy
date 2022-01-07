@@ -1,8 +1,8 @@
 ---
-layout: default # unlike page, doesnt auto-add the page.title as a h1
-#title: the art and way of fighting games
+#layout: default # unlike page, doesnt auto-add the page.title as a h1
+#layout: page
+title: the dojo
 ---
-# *the art and the way of fighting games*
 a project and digital communal space passionate about fighting games,  
 especially the research 'n development of them
 
