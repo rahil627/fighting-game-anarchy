@@ -1,4 +1,5 @@
-remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
+#remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
+remote-theme: rahil627/minima-custom
 #remote_theme: rahil627/ultra # nice, but no dynamic nav bar :(
 #remote_theme: pages-themes/primer
 #remote_theme: pages-themes/minimal
