@@ -9,8 +9,8 @@ title: 'conceptual fighting: the art and way of fighting games' #fighting game a
 #description: # fetches this from github repo's about section
 
 # theme specific stuff
-minima:
-  skin: light #default
+#minima:
+  #skin: classic #default
 
 #author:
 #  name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a> #can't add html to this because it is unformatted for seo use
