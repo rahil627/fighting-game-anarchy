@@ -1,6 +1,6 @@
 ---
-#layout: default # page
-title: hearth
+layout: default # unlike page, doesnt auto-add the page.title as a h1
+title: dojo
 ---
 
 # conceptual fighting: *the art and way of fighting games*
