@@ -16,10 +16,10 @@ minima:
 #  name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a> #can't add html to this because it is unformatted for seo use
 #  email: '' # error if i provide name but not e-mail?
     
-footer:
-  left: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
-  center: 'footer center'
-  right: 'footer right
+#footer:
+#  left: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>
+#  center: 'footer center'
+#  right: 'footer right
 
 # messisg with something
 #defaults:
