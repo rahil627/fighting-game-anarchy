@@ -1,6 +1,6 @@
 ---
 layout: default # unlike page, doesnt auto-add the page.title as a h1
-title: the art and way of fighting games
+title: dojo
 ---
 # *the art and way of fighting games*
 a project and digital communal space passionate about fighting games,  
