@@ -8,9 +8,9 @@ title: "conceptual fighting" #: the art and way of fighting games #fighting game
 #description: # fetches this from github repo's about section
 
 # theme specific stuff
-  author:
-    name: testing #'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
-    email: your-email@domain.com
+author:
+  name: testing #'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
+  email: your-email@domain.com
     
 
 
