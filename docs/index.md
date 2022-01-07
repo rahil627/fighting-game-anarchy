@@ -13,7 +13,7 @@ come 'n hang out at [the discord!](https://discord.gg/FtAQws9)
 read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)  
 *(it's super simple!!)*  
 help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy)  
-*(it's also quite simple! Just ask for permission to edit it. Sooo much to do!! :) :))*  
+*(it's also simple! Just ask for permission to edit it. Sooo much to do!! :) :))*  
 
 todo: should create a forum, even if it's just for the nostalgia of smashboards :)  
 *(use Disourse in a Docker container on a Digital Ocean server; DDD)*  
