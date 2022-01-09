@@ -1,7 +1,7 @@
 ---
 #layout: default # unlike page, doesnt auto-add the page.title as a h1
 #layout: page
-#title: the dojo # adds to nav bar and h1
+#title: the dojo # adds to nav bar, h1, and seo
 ---
 welcome to
 # {{ site.title-short }}
