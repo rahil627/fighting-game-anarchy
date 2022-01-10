@@ -3,17 +3,18 @@ remote_theme: rahil627/minima-custom-jekyll-theme # i won't ever rememeber to up
 #remote_theme: rahil627/ultra # nice, but no dynamic nav bar :(
 
 title: "conceptual fighting: the art, design, 'n way of fighting games" #fighting game anarchy: the art and way of fighting games
-title-short: 'conceptual fighting'
 #description: # fetches this from github repo's about section
 
 # theme specific stuff
 #minima:
   #skin: classic #default
 
-#author:
-#  name: a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a> #can't add html to this because it is unformatted for seo use
-#  email: '' # error if i provide name but not e-mail?
+# author:
+#  name: rahil627 aka rathewolf used by seo #can't add html to this because it is unformatted for seo use
+#  email: '' # error if i provide a name without an e-mail?
     
+# custom stuff
+title-short: 'conceptual fighting'
 footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
 
