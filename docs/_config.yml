@@ -4,7 +4,7 @@ remote_theme: rahil627/minima-custom-jekyll-theme # i won't ever rememeber to up
 #remote_theme: pages-themes/primer # todo: worth trying for a barebones theme
 #remote_theme: poole/lanyon
 
-title: 'conceptual fighting: the art, design, 'n way of fighting games' #fighting game anarchy: the art and way of fighting games
+title: "conceptual fighting: the art, design, 'n way of fighting games" #fighting game anarchy: the art and way of fighting games
 title-short: 'conceptual fighting'
 #description: # fetches this from github repo's about section
 
