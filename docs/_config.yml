@@ -6,12 +6,15 @@ title: "conceptual fighting: the way of fighting games" #fighting game anarchy: 
 #description: # fetches this from github repo's about section
 
 # theme specific stuff
-#minima:
-  #skin: classic #default
+minima:
+  plugins:
+   - jekyll-seo-tag
+  
+  #skin: classic #default black on white
 
-# author:
-#  name: rahil627 aka rathewolf used by seo #can't add html to this because it is unformatted for seo use
-#  email: '' # error if i provide a name without an e-mail?
+author:
+  name: rahil627 aka rathewolf used by seo #can't add html to this because it is unformatted for seo use
+  email: '' # error if i provide a name without an e-mail?
     
 # custom stuff
 title-short: 'conceptual fighting'
