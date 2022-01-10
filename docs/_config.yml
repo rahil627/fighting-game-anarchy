@@ -15,6 +15,7 @@ title: "conceptual fighting: the way of fighting games" #fighting game anarchy: 
     
 # custom stuff
 title-short: 'conceptual fighting'
+center-everything: true
 footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
 
