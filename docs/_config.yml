@@ -13,7 +13,7 @@ minima:
   #skin: classic #default black on white
 
 author:
-  name: rahil627 aka rathewolf used by seo #can't add html to this because it is unformatted for seo use
+  name: rahil627 aka rathewolf #used by seo #can't add html to this because it is unformatted for seo use
   email: '' # error if i provide a name without an e-mail?
     
 # custom stuff
