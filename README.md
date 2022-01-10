@@ -5,7 +5,7 @@ welcome to
 a project and digital communal space passionate about fighting games,  
 especially the research 'n development of them
 
-![](assets/images/knee-animation-hitbox.gif?raw=true)
+![](docs/assets/images/knee-animation-hitbox.gif?raw=true)
 
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9)  
 read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)  
