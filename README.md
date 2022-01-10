@@ -1,7 +1,7 @@
 *(copied from the web-site's home-page, likely out-dated)*
 
 welcome to
-# {{ site.title-short }}
+# conceptual fighting
 a project and digital communal space passionate about fighting games,  
 especially the research 'n development of them
 
