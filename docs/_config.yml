@@ -18,7 +18,7 @@ author:
     
 # custom stuff
 title-short: 'conceptual fighting'
-center-everything: true
+dont-center-everything: false
 footer:
   left: 'a <a href="https://willowolf.com">willowolf</a> of <a href="https://rathewolf.com">rathewolf</a>'
 
