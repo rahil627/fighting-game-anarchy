@@ -20,3 +20,6 @@ sooo much to dooo!! :) :)*
 
 (todo: should create a forum, even if it's just for the nostalgia of smashboards :))   
 *(use Disourse in a Docker container on a Digital Ocean server; DDD)*  
+
+lol:
+<iframe src="https://open.spotify.com/embed/track/2TdjlZZ00L6SJbaRYsafEw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe
