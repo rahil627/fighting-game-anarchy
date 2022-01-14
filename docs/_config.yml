@@ -6,14 +6,11 @@ title: "conceptual fighting: the dao of fighting games"
 
 # theme specific stuff
 minima:
-  plugins:
-   - jekyll-seo-tag
-  
-  #skin: classic #default black on white
+  skin: classic #default black on white
 
-author:
-  name: rahil627 aka rathewolf #used by seo? #can't add html to this because it is unformatted for seo use
-  email: '' # error if i provide a name without an e-mail?
+#author: #appears in the footer :/
+  #name: rahil627 aka rathewolf #used by seo? #can't add html to this because it is unformatted for seo use
+  #email: '' # error if i provide a name without an e-mail?
     
 # custom stuff
 title-short: 'conceptual fighting'
