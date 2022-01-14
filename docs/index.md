@@ -11,6 +11,7 @@ especially the research 'n development of them
 ![](assets/images/knee-animation-hitbox.gif?raw=true)
 
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9)  
+talk on [the discussions](https://github.com/rahil627/fighting-game-anarchy/discussions)
 read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)  
 help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy)
 
@@ -19,4 +20,4 @@ it's super simple to edit the wiki(!),
 sooo much to dooo!! :) :)*
 
 (todo: should create a forum, even if it's just for the nostalgia of smashboards :))   
-*(use Disourse in a Docker container on a Digital Ocean server; DDD)*  
+*(use Disourse in a Docker container on a Digital Ocean server and name it DDD)*  
