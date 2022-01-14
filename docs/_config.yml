@@ -1,4 +1,3 @@
-#remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
 remote_theme: rahil627/minima-customized # i won't ever rememeber to update my forked version :(
 #remote_theme: rahil627/ultra # nice, but no dynamic nav bar :(
 
@@ -12,9 +11,9 @@ minima:
   
   #skin: classic #default black on white
 
-#author:
-  #name: rahil627 aka rathewolf #used by seo? #can't add html to this because it is unformatted for seo use
-  #email: '' # error if i provide a name without an e-mail?
+author:
+  name: rahil627 aka rathewolf #used by seo? #can't add html to this because it is unformatted for seo use
+  email: '' # error if i provide a name without an e-mail?
     
 # custom stuff
 title-short: 'conceptual fighting'
