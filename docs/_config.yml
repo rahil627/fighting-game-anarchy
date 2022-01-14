@@ -1,5 +1,5 @@
 #remote_theme: jekyll/minima # force remote download to get the most recent version, which has skins
-remote_theme: rahil627/minima-jekyll-theme-customized # i won't ever rememeber to update my forked version :(
+remote_theme: rahil627/minima-customized # i won't ever rememeber to update my forked version :(
 #remote_theme: rahil627/ultra # nice, but no dynamic nav bar :(
 
 title: "conceptual fighting: the dao of fighting games"
