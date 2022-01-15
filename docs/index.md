@@ -16,4 +16,6 @@ read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/w
 help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy)
   
   
-ugh(!!) so much to do(!!!)
+it’s super simple to edit the wiki(!),  
+but the web-site needs permission to edit it.  
+sooo much to dooo!! :) :)  
