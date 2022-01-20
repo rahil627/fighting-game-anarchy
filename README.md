@@ -22,6 +22,7 @@ sooo much to dooo!! :) :)*
 site style / theme: ink 'n paper, or pencil 'n paper, or video game prototyping, or wireframes and highlighted collisions
 
 todo:
+clean up the tests
 
 discord todo:
 copy config settings (web hooks 'n all)
