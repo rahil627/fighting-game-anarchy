@@ -1,5 +1,0 @@
-todo:
-copy config settings (web hooks 'n all)
-copy structure
-copy pinned messages
-copy topics
