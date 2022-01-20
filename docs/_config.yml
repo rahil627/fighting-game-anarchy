@@ -27,8 +27,3 @@ footer:
 #      layout: "default" # "toc"
 
 
-# other vars
-# convert newlines properly
-kramdown:
-  input: GFM
-  hard_wrap: true
