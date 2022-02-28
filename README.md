@@ -22,14 +22,6 @@ sooo much to dooo!! :) :)*
 site style / theme: ink 'n paper, or pencil 'n paper, or video game prototyping, or wireframes and highlighted collisions
 
 todo:
-clean up the tests
-
-discord todo:
-copy config settings (web hooks 'n all)
-copy structure
-copy pinned messages
-copy topics
-
 welp, the site works, but the theme doesn't...  
 fixed: changed layout-value to `default`... a little strange though, what about `page` and `post` values?
 
