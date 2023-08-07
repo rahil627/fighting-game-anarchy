@@ -12,8 +12,8 @@ especially the research 'n development of them
 
 come 'n hang out at [the discord!](https://discord.gg/FtAQws9)  
 discuss on [the forums](https://github.com/rahil627/fighting-game-anarchy/discussions)  
-read 'n help make [the wiki](https://github.com/Rahil627/fighting-game-anarchy/wiki)  
-help make [*this* web-site](https://github.com/Rahil627/fighting-game-anarchy)
+read 'n help make [the wiki](https://github.com/rahil627/fighting-game-anarchy/wiki)  
+help make [*this* web-site](https://github.com/rahil627/fighting-game-anarchy)
   
   
 it’s super simple to edit the wiki(!),  
